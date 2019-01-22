@@ -14,6 +14,6 @@ has an optimized time solution. I would also potentially implement classes
 for IP, Port, and maybe Direction and Protocol in order to keep those 
 classes separate from one another for a more object-oriented solution.
 
-I would honestly be interested in any of the teams for this summer, though
-I am probably more interested in Platform or Data over Policy. I look forward
+I would definitely be interested in any of the teams for this summer, though
+I am probably most interested in Platform, then Data, then Policy. I look forward
 to hearing back soon!
